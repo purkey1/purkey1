@@ -21,6 +21,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=purkey1&theme=high-contrast&bg_color=000000&color=e60915&line=e60915&point=ffffff&area=true&hide_border=true" />
 </p>
 
+<!-- Pac-Man GitHub Contribution Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/purkey1/purkey1/output/pacman.svg" alt="GitHub Pac-Man Animation" />
+</p>
 
 ---
 
