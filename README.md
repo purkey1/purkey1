@@ -1,10 +1,5 @@
-<img src="banner.jpg" alt="Banner" width="100%" style="border-radius:10px;" />
-
----
-
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Discord.js](https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Playdate](https://img.shields.io/badge/Playdate-FFD700?style=for-the-badge&logo=nintendo&logoColor=black)
 
